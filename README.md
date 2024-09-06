@@ -4,7 +4,7 @@
 
 My name is **Harvey Donnelly**. 
 - 🔭 I am a final-year undergraduate student at the University of Toronto, completing a BSc. (Hons) in Computer Science (specialist, focus in AI) and Cogntive Science (major).
-- 🌱 I’m interested in research in NLP, Computational Linguistics, Reinforcement Learning and Computational Neuroscience!
+- 🌱 My current research interests are in NLP, Computational Linguistics, Reinforcement Learning and Computational Neuroscience!
 - 📫 How to reach me: harveydonnelly404@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am from Belfast, Ireland, although I am currently based in Toronto, Canada.
